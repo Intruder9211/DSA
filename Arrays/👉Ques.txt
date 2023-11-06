@@ -1,0 +1,40 @@
+👉 How do you find the missing number in a given integer array of 1 to 100?                                               -- --
+
+👉How do you find the duplicate nuber on a given integer array?                                                           -- --
+
+👉How do you find the largest and smallest number in an unsorted integer array?                                           -- --
+
+👉How do you find all pairs of an integer array whose sum is equal to given number?                                       -- --
+
+👉How do you find duplicate numbers in an array if it contains multiple duplicates?                                       -- --
+
+👉How to remove duplicates from a given array in java?                                                                    -- --
+
+👉How do you search a target value in a rotated array?                                                                    -- --
+
+👉Given an unsorted array of integers, find the lengthof the longest consecutive elements sequence?                       -- --
+
+👉How is an integer array sorted in place using the quicksort algorithm?                                                  -- --
+
+👉How do you remove duplicates from an array in place in java?                                                            -- --
+
+👉How do you reverse an array in place in java?                                                                           -- --
+
+👉How are duplicates removed from an array without using any library?                                                     -- --
+
+👉How to convert a byte array to String?                                                                                  -- --
+
+👉What is difference between an array and a linked list?                                                                  -- --
+
+👉How do you perform a binary search in a given array?                                                                    -- --
+
+👉How to find a median of two sorts arrays?                                                                               -- --
+
+👉How to rotate an array left to right by a given number K?                                                               -- --
+
+👉How to find duplicates from an unsorted array?                                                                          -- --
+
+👉Given an array of integers sorted in ascending order, find the starting and ending position of a given vallue?          -- --
+
+👉Given an integer array, find the contiguous subarray(containing atleast one number) which has the largest sum           -- --
+   and return its sum?
